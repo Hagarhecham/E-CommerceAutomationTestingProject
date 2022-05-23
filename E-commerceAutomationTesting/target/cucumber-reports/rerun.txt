@@ -1,0 +1,12 @@
+file:src/test/java/features/login.feature:5
+file:src/test/java/features/orderProduct.feature:5
+file:src/test/java/features/search.feature:7
+file:src/test/java/features/F11_AddingItemToCompareLIse.feature:5
+file:src/test/java/features/registration.feature:5
+file:src/test/java/features/selectTag.feature:5
+file:src/test/java/features/AddingItemToWishList.feature:5
+file:src/test/java/features/currencyChange.feature:5
+file:src/test/java/features/resetpassword.feature:7
+file:src/test/java/features/AddingItemToShoppingCart.feature:5
+file:src/test/java/features/filterByColor.feature:5
+file:src/test/java/features/selectcatogory.feature:6
